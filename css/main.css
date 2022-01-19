@@ -5,8 +5,8 @@ main {
     border:solid 1px red;
 }
 
-.images {
-    text-align:center;
+#main_img .images {
+    margin:0 auto;
 }
 
 #main_img .img1 {
