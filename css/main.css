@@ -1,9 +1,82 @@
 main {
     width:1000px;
+    height:1500px;
     margin:0 auto;
+    border:solid 1px red;
+}
+
+#main_img div {
+    text-align:center;
 }
 
 #main_img .img1 {
-    width:100px;
-    height:100px;
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img2 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img3 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img4 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img5 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img6 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img7 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img8 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
+}
+
+#main_img .img9 {
+    width:250px;
+    height:200px;
+    float:left;
+    margin:10px;
+    display:block;
 }
