@@ -1,0 +1,18 @@
+#intro_img {
+    width:600px;
+    height:300px;
+    margin:20px 0 50px 0;
+}
+
+#intro_logo {
+    margin-bottom:80px;
+    color:#FFA7A7;
+}
+
+#intro_main {
+    font-size:15px;
+}
+
+#intro_main .intro_last {
+    margin-top:50px;
+}
