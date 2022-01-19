@@ -2,11 +2,17 @@ main {
     width:1000px;
     height:1500px;
     margin:0 auto;
+}
+
+#main_img #images {
+    margin:0 0 0 50px;
+    width:1000px;
+    height:1500px;
     border:solid 1px red;
 }
 
-#main_img .images {
-    margin:0 auto;
+#images img {
+    margin 0 0 0 20px;
 }
 
 #main_img .img1 {
