@@ -5,7 +5,7 @@ main {
     border:solid 1px red;
 }
 
-#main_img div {
+.images {
     text-align:center;
 }
 
