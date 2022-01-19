@@ -1,0 +1,18 @@
+header {
+    width:1000px;
+    margin:0 auto;
+}
+#top {
+    margin:70px 0 0 10px;
+}
+
+#top_logo {
+    font-size:40px;
+}
+
+#top_menu li {
+    display:inline-block;
+    font-size:15px;
+    margin:20px 20px 0 20px;
+    color:#444444;
+}
